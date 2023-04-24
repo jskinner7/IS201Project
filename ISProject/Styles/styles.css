@@ -1,0 +1,25 @@
+#top{
+    text-decoration: underline;
+    color:darkslategray;
+}
+body{
+    text-align: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ol {
+    list-style-position: inside;
+}
+.footer{
+    height: 25px;
+    font-size: 10px;
+    padding: 15px;
+    background-color: darkgreen;
+    color: white;
+}
+.emphasizedtext{
+    text-decoration:bold;
+}
+.image{
+    border: 5px;
+    color:black
+}
